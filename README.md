@@ -17,9 +17,9 @@
 
 ### Frontend Setup
 
-1. Navigate to the `portfolio-manager` directory:
+1. Navigate to the `portfolio-management` directory:
     ```sh
-    cd portfolio-manager
+    cd portfolio-management
     ```
 
 2. Install dependencies:
